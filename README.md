@@ -1,5 +1,7 @@
 # Milestone II Project: Predicting Prices of Airbnb Listings in the Western United States
 
+Full report: https://docs.google.com/document/d/1Hrtkn64zvmSz0Vtb6gIQu9Y-JyxLLlTljwzNvWA87bU/edit?usp=sharing
+
 ## I. Introduction
 ### I.I Predicting the price of a short-term rental unit
 
